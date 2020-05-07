@@ -1,0 +1,54 @@
+<<<<<<< HEAD
+hello..... this is ashok learning Devops
+d
+a
+
+d
+dd
+d
+
+d
+d
+hello..... this is ashok learning Devops
+d
+a
+
+d
+dd
+d
+
+d
+d
+hello..... this is ashok learning Devops
+d
+a
+
+d
+dd
+d
+
+d
+d
+hello..... this is ashok learning Devops
+d
+a
+
+d
+dd
+d
+
+d
+d
+hello..... this is ashok learning Devops
+d
+a
+
+d
+dd
+d
+
+d
+d
+=======
+hello..... this is ashok learning Devops
+>>>>>>> parent of 180aee6... new lines added
